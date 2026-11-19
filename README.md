@@ -15,3 +15,4 @@ Lab work for Coding Café, FM102.
 - `lab6/` — Data Structures and CSV Files
 - `lab7/` — Objects, encapsulation, and abstraction
 - `lab8/` — The Royal Inheritance
+- `lab9/` — NumPy, Pandas & Matplotlib
